@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "verifytesttool": {
+      "hosting": {
+        "apiparent": [
+          "verifytesttool"
+        ]
+      }
+    }
+  }
+}
